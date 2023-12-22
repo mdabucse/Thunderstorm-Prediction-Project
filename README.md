@@ -9,7 +9,8 @@ The importance and benefits of the innovative project to the society:
 Early prediction allows for proactive safety measures to be implemented, such as rerouting flights, rescheduling landings and takeoffs, and initiating ground operations adjustments. Enhances the efficiency of air traffic control by providing accurate forecasts, minimizing disruptions, and ensuring smoother coordination between airfield operators and aviation authorities. Minimizes financial losses associated with flight delays, cancellations, and potential damage to aircraft due to severe weather conditions, leading to cost savings for both airfield operators and airlines. Access to accurate and timely weather predictions enables pilots to make informed decisions, ensuring the safety of passengers and crew by avoiding areas with severe weather conditions. 
 
 **Working Flow:**
-![image](https://github.com/mdabucse/Thunderstorm-Prediction-Project/assets/131733014/41eb4a38-7d19-447d-a153-099b6e09a02c)
+![image](https://github.com/mdabucse/Thunderstorm-Prediction-Project/assets/131733014/9d0b6646-a44e-4c6f-80ff-9fee26c83378)
+
 
 
 **The importance and benefits of the innovative project to the society:**
