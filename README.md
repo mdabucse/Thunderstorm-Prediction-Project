@@ -1,7 +1,7 @@
 **Problem Statement:**
 AI/ML-Based Prediction of Thunderstorms Impact on Airfield Operations.
 
-![image](https://github.com/mdabucse/Thunderstorm-Prediction-Project/assets/131733014/41c9d25c-545f-411f-9d81-2ea4810c3bad)
+![image](https://github.com/mdabucse/Thunderstorm-Prediction-Project/assets/131733014/41c9d25c-545f-411f-9d81-2ea4810c3bad,width=200)
 
 
 **Abstract of the Innovative project report: **
